@@ -1,6 +1,6 @@
 number1 = int(input("Enter a number: "))
 number2 = int(input("Enter a number: "))
-#addition
+#addition of numbers
 add=number1+number2
 print("the sum of",number1,"and",number2,"is",add)
 #subtraction
